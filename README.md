@@ -1,7 +1,5 @@
 - 👋 Hello, I'm @AndDobr
-- 👀 I'm interested in programming and mathematics)
-- 🌱 I'm in school now
-- 💞️ I invite people who liked my projects to cooperate
+- 👀 I'm a 13-year-old Python programmer who loves tinkering with code and creating new things. I'm passionate about exploring the endless possibilities of Python and using it to solve interesting problems.
 
 <!---
 AndDobr/AndDobr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
